@@ -1,5 +1,12 @@
 # 👋 Hi I'm [Mecili mohamed lamine]
-<img src="http://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="welcom"/>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+       width="60%"
+       alt="Welcome Coders"/>
+</p>
+
+<h2 align="center">👋 Hi, I'm <span style="color:#00d9ff;">Mecili Amine</span>!</h2>
+
 I'm a **Full-Stack Developer** skilled in **C, Java, Laravel, Flutter, React**.  
 I love building modern web & mobile apps.
 
