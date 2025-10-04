@@ -1,9 +1,3 @@
-<!--
-  Fichier: index.html
-  Page de Portfolio pour un Développeur Full-Stack
-  Technologies: C, Java, Laravel, Flutter, React
--->
-
 <!doctype html>
 <html lang="fr">
 <head>
@@ -25,15 +19,28 @@
       color-scheme: dark;
     }
     *{box-sizing:border-box}
-    body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:linear-gradient(180deg,var(--bg),#071022); color:#e6eef8; line-height:1.5}
+    body{
+      margin:0;
+      font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+      background:linear-gradient(180deg,var(--bg),#071022);
+      color:#e6eef8;
+      line-height:1.5
+    }
     .container{max-width:1000px;margin:40px auto;padding:24px}
     header{display:flex;align-items:center;justify-content:space-between;gap:12px}
     .brand{display:flex;gap:12px;align-items:center}
-    .logo{width:48px;height:48px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#15803d);display:flex;align-items:center;justify-content:center;font-weight:700}
+    .logo{
+      width:48px;height:48px;border-radius:10px;
+      background:linear-gradient(135deg,var(--accent),#15803d);
+      display:flex;align-items:center;justify-content:center;font-weight:700
+    }
     nav a{color:var(--muted);text-decoration:none;margin-left:16px}
     nav a:hover{color:white}
     .hero{display:grid;grid-template-columns:1fr 340px;gap:24px;margin-top:28px}
-    .card{background:var(--card);padding:22px;border-radius:12px;backdrop-filter: blur(6px);box-shadow:0 6px 18px rgba(2,6,23,0.6)}
+    .card{
+      background:var(--card);padding:22px;border-radius:12px;
+      backdrop-filter: blur(6px);box-shadow:0 6px 18px rgba(2,6,23,0.6)
+    }
     h1,h2,h3,h4{margin-top:0}
     h1{font-size:32px;margin-bottom:8px}
     p.lead{margin:0 0 18px;color:var(--muted)}
@@ -42,10 +49,13 @@
     .btn-primary{background:linear-gradient(90deg,var(--accent),#15803d);color:white}
     .btn-light{background:var(--glass);color:var(--muted)}
     .features{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin-top:18px}
-    .feature{padding:14px;border-radius:8px;background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);border:1px solid rgba(255,255,255,0.03)}
+    .feature{
+      padding:14px;border-radius:8px;
+      background:linear-gradient(180deg, rgba(255,255,255,0.02), transparent);
+      border:1px solid rgba(255,255,255,0.03)
+    }
     footer{margin-top:28px;color:var(--muted);font-size:14px;text-align:center}
 
-    /* responsive */
     @media (max-width:880px){
       .hero{grid-template-columns:1fr;}
       nav{display:none}
@@ -107,7 +117,9 @@
 
       <aside class="card" id="about">
         <h3>À propos de moi</h3>
-        <p style="color:var(--muted);font-size:14px">Je suis un passionné du développement logiciel. J'aime créer des solutions efficaces pour le web, le mobile et le desktop, avec une solide base en algorithmique et en programmation orientée objet.</p>
+        <p style="color:var(--muted);font-size:14px">
+          Je suis un passionné du développement logiciel. J'aime créer des solutions efficaces pour le web, le mobile et le desktop, avec une solide base en algorithmique et en programmation orientée objet.
+        </p>
 
         <h4 style="margin-top:12px">Mon approche</h4>
         <ul style="color:var(--muted);padding-left:18px">
@@ -142,7 +154,10 @@
 
     <section id="contact" class="card" style="margin-top:20px">
       <h2>Contact</h2>
-      <p style="color:var(--muted);font-size:14px">Vous pouvez m'écrire à <code>votre.email@exemple.com</code> ou visiter mon <a href="https://github.com/" style="color:var(--accent)">GitHub</a>.</p>
+      <p style="color:var(--muted);font-size:14px">
+        Vous pouvez m'écrire à <code>votre.email@exemple.com</code> ou visiter mon 
+        <a href="https://github.com/" style="color:var(--accent)">GitHub</a>.
+      </p>
     </section>
 
     <footer>
