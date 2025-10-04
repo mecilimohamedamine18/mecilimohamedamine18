@@ -22,6 +22,6 @@ I love building modern web & mobile apps.
 ---
 
 ## 📫 Contact
-- 🌐 Portfolio: [https://USERNAME.github.io](https://mecilimohamedlamine18.github.io)  
-- 💼 LinkedIn: [https://linkedin.com/in/USERNAME](https://linkedin.com/in/aminemecili)  
+- 🌐 Portfolio: [https://mohamedlaminemecili.github.io](https://mecilimohamedlamine18.github.io)  
+- 💼 LinkedIn: [https://linkedin.com/in/mecili](https://linkedin.com/in/aminemecili)  
 - 📧 Email: aminemecili@gamil.com  
