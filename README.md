@@ -5,7 +5,8 @@
        alt="Welcome Coders"/>
 </p>
 
-<h2 align="center">👋 Hi, I'm <span style="color:#00d9ff;">Mecili Amine</span>!</h2>
+<h2 align="center">👋 Hi, I'm Mecili Amine!</h2>
+
 
 I'm a **Full-Stack Developer** skilled in **C, Java, Laravel, Flutter, React**.  
 I love building modern web & mobile apps.
