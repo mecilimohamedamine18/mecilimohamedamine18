@@ -23,13 +23,7 @@ I love building modern web & mobile apps.
 - 📊 **Admin Dashboard** – Responsive dashboard (React + Laravel)
 
 ---
-<!-- Animated Welcome Banner -->
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
-       width="60%" alt="Hi Coders GIF"/>
-</p>
 
-<h2 align="center">👋 Hi, I'm Mecili Amine!</h2>
 
 ---
 
@@ -58,13 +52,6 @@ I love building modern web & mobile apps.
 
 ---
 
-## 📊 GitHub Language Pie
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie)
-
----
-
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - 🌐 Portfolio: [https://mohamedlaminemecili.github.io](https://mecilimohamedlamine18.github.io)  
