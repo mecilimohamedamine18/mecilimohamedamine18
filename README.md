@@ -46,24 +46,6 @@ I love building modern web & mobile apps.
 
 ---
 
-## 📊 Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 💌 About Me
-- 🔥 Passionate about **Full-Stack Web & Mobile Development**  
-- 🌱 Currently improving my skills in **Java, Flutter, React, and Laravel**  
-- 💡 Always ready to collaborate on open-source projects  
-- 📫 Reach me at: you@example.com  
-
-⭐ *If you like my work, don’t forget to star my repositories!*
-
 
 ## 📫 Contact
 - 🌐 Portfolio: [https://mohamedlaminemecili.github.io](https://mecilimohamedlamine18.github.io)  
