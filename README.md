@@ -1,4 +1,4 @@
-# 👋 Hi Coders! I'm [Your Name]
+# 👋 Hi I'm [Mecili mohamed lamine]
 
 I'm a **Full-Stack Developer** skilled in **C, Java, Laravel, Flutter, React**.  
 I love building modern web & mobile apps.
@@ -22,6 +22,6 @@ I love building modern web & mobile apps.
 ---
 
 ## 📫 Contact
-- 🌐 Portfolio: [https://USERNAME.github.io](https://USERNAME.github.io)  
-- 💼 LinkedIn: [https://linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
-- 📧 Email: you@example.com  
+- 🌐 Portfolio: [https://USERNAME.github.io](https://mecilimohamedlamine18.github.io)  
+- 💼 LinkedIn: [https://linkedin.com/in/USERNAME](https://linkedin.com/in/aminemecili)  
+- 📧 Email: aminemecili@gamil.com  
