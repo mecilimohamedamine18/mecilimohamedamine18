@@ -1,11 +1,5 @@
 # 👋 Hi I'm [Mecili mohamed lamine]
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/hi-coders.gif"
-       width="60%"
-       alt="Hi Coders Mecili Amine"/>
-</p>
 
-<h2 align="center">👋 Hi, I'm Mecili Amine!</h2>
 
 
 
