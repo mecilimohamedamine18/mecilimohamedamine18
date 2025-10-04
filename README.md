@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m [Mecili mohamed lamine]
 
 I’m a **Full-Stack Developer** passionate about building modern web and mobile applications.  
 I enjoy writing clean, efficient code and creating products that make an impact.
@@ -37,7 +37,7 @@ I enjoy writing clean, efficient code and creating products that make an impact.
 ## 📫 Contact Me
 - 🌐 Portfolio: [https://USERNAME.github.io](https://USERNAME.github.io)  
 - 💼 LinkedIn: [https://linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
-- 📧 Email: you@example.com
+- 📧 Email: mohamedlaminemecili@gmail.com
 
 ---
 
