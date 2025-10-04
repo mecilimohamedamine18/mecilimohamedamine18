@@ -26,31 +26,43 @@ I love building modern web & mobile apps.
 
 
 ---
-
-## 🚀 Skills (Beautiful Circular Gauges)
+🚀 My Skills
 
 <p align="center">
-  <!-- Java -->
+
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-80%25-blueviolet?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="0">
-
-  <!-- C -->
   <img src="https://img.shields.io/badge/C-65%25-orange?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-72%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <!-- Laravel -->
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Laravel-75%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-  <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-  <!-- React -->
   <img src="https://img.shields.io/badge/React-68%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-72%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
+
+## 📊 Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 💌 About Me
+- 🔥 Passionate about **Full-Stack Web & Mobile Development**  
+- 🌱 Currently improving my skills in **Java, Flutter, React, and Laravel**  
+- 💡 Always ready to collaborate on open-source projects  
+- 📫 Reach me at: you@example.com  
+
+⭐ *If you like my work, don’t forget to star my repositories!*
 
 
 ## 📫 Contact
