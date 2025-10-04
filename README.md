@@ -1,11 +1,12 @@
 # 👋 Hi I'm [Mecili mohamed lamine]
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/hi-coders.gif"
        width="60%"
-       alt="Welcome Coders"/>
+       alt="Hi Coders Mecili Amine"/>
 </p>
 
 <h2 align="center">👋 Hi, I'm Mecili Amine!</h2>
+
 
 
 I'm a **Full-Stack Developer** skilled in **C, Java, Laravel, Flutter, React**.  
